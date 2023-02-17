@@ -1,0 +1,262 @@
+{
+    "features": {
+        
+        "overview": {
+            "heading": "Pro Sound for Pro Gamers",
+            "overview_text": "Take online gaming sound to the next level with BRIDGE CAST, your all-in-one solution for premium livestream audio. This customizable desktop hub is packed with secret weapons to take out the competition, including dual sound mixes, vocal transformer effects, music playback, sound effects, and support for a broadcast-grade mic and headphones. In the heat of the battle, BRIDGE CAST ensures that your audio is always as epic as your gameplay.",
+            "thumbnail": "https://static.roland.com/products/bridge_cast/images/bridge_cast_overview_hero.jpg",
+            "content": {
+                "video": "https://www.youtube.com/watch?v=Mzj9B3rWNA4",
+                "image": "https://static.roland.com/products/bridge_cast/images/photo_gallery_bridge_cast_vid_1.jpg",
+                "heading": "BRIDGE CAST Overview",
+                "text": "Level up your gaming setup with BRIDGE CAST, the simple all-in-one solution serving crystal-clear audio and killer effects. In this video, you’ll learn about the secret weapons packed inside BRIDGE CAST that will help you hear game sound and broadcast audio clearly while in the heat of battle."
+            }
+        },
+        "elevate": {
+            "heading": "Elevate Your Gaming Presence with Legendary Roland Technology",
+            "overview_text": "BRIDGE CAST gives you what you need to deliver outstanding sound in every session, coupled with killer sonic tools to help you stand out from the crowd. Roland has been a leading innovator in electronic music and audio/video gear for over 50 years. With BRIDGE CAST on your desktop, you’ll be driving your sound with the brand trusted by generations of top creators worldwide.",
+            "thumbnail": "https://static.roland.com/products/bridge_cast/images/section-1-hero.jpg"
+        },
+        "steps": {
+            "container": {
+                "heading": "Fast and Easy Pre-Game Set Up",
+                "list": [
+                    {
+                        "image": "https://static.roland.com/products/bridge_cast/images/steps-item-1.jpg",
+                        "text": "Connect BRIDGE CAST to your gaming computer via USB-C."
+                    },
+                    {
+                        "image": "https://static.roland.com/products/bridge_cast/images/steps-item-2.jpg",
+                        "text": "Plug in a professional microphone to the XLR input."
+                    },
+                    {
+                        "image": "https://static.roland.com/products/bridge_cast/images/steps-item-3.jpg",
+                        "text": "Hook up your headphones."
+                    },
+                    {
+                        "image": "https://static.roland.com/products/bridge_cast/images/steps-item-4.jpg",
+                        "text": "Customize the audio and panel functions with the companion app."
+                    },
+                    {
+                        "image": "https://static.roland.com/products/bridge_cast/images/steps-item-5.jpg",
+                        "text": "Set up personal and stream mixes with the hands-on controls."
+                    }
+                ]
+            },
+            "about": {
+                "heading": "Amp Up Your Sound",
+                "text": "BRIDGE CAST lets you chat and interact using a broadcast-grade dynamic or condenser microphone, the foundation of any professional audio setup. The high-performance XLR mic preamp delivers clear, dynamic sound in the box, with no need for messy external add-ons. You get superior audio monitoring too, with a powerful headphone amplifier and high-sensitivity output for pro-quality phones. The versatile headphones connector also supports a headset mic for a quick, single-cable connection.",
+                "thumbnail": "https://static.roland.com/products/bridge_cast/images/amp-up-about.jpg"
+            }
+        },
+        "personal": {
+            "heading": "Personal Mix + Stream Mix",
+            "overview_text": "With the dual audio mixer in BRIDGE CAST, you can independently balance the mic level, team chats, gameplay sounds, and background music for you and your viewers. Give yourself a winning advantage with a personal mix that prioritizes what you need to hear while gaming. Then create a separate stream mix that’s perfectly balanced for maximum online engagement.",
+            "thumbnail": "https://static.roland.com/products/bridge_cast/images/section-2-hero.jpg",
+            "sound": {
+                "heading": "Direct Sound Control",
+                "text": "Along with a headphones output, BRIDGE CAST has a line output for external gaming speakers. Level knobs for each output let you easily control volumes and smoothly transition between phones and speakers during gameplay. There’s also a dedicated streaming level control to dial in the sound for your online audience.",
+                "thumbnail": "https://static.roland.com/products/bridge_cast/images/direct-sound-control-about.jpg"
+            },
+            "vocal": {
+                "heading": "The Vocal Shapeshifter",
+                "text": [
+                    "Morph your voice and become your character with fun processing derived from Roland’s famous VT voice transformer products. Adjust the pitch and formant to change your age or gender. Or go even further and take on the persona of a beast or alien.",
+                    "BRIDGE CAST also includes EQ, compression, and other pro vocal processing to level up your streams. A low-cut filter softens pesky “P” and “T” plosives, while the de-esser cleans up harsh “S” tones. There’s a noise suppressor to throttle background distractions, plus reverb to launch your voice into another dimension. And with the muscular hardware DSP handling the audio load, all your computer power is dedicated to gaming and streaming."
+                ],
+                "thumbnail": "https://static.roland.com/products/bridge_cast/images/vocal-shapeshifter-about.jpg"
+            }
+        },
+        "audio": {
+            "heading": "The Audio Cheat Code",
+            "overview_text": "Slay your competition by highlighting important game sounds with Game EQ presets. Pinpoint audio frequencies and boost their levels to make it easier to hear critical elements, like enemy footsteps in first-person shooter games. Once you find the ideal settings for different game titles, save them in onboard profiles and call them up with quick button presses while playing.",
+            "thumbnail": "https://static.roland.com/products/bridge_cast/images/audio-cheat-code-hero.jpg"
+        },
+        "brand": {
+            "heading": "Brand Yourself",
+            "overview_text": "Building your brand is an essential part of creating an online following. The BRIDGE CAST faceplate is detachable, allowing you to use our downloadable skin template to personalize the panel with your team or gamertag design. It’s also possible to customize the LED colors of the four control knobs for additional flair.",
+            "thumbnail": [
+                "https://static.roland.com/products/bridge_cast/images/brand-yourself-right-1.jpg",
+                "https://static.roland.com/products/bridge_cast/images/productspinner2/00080.jpg",
+                "https://static.roland.com/products/bridge_cast/images/brand-yourself-right-3.jpg"
+            ]
+        },
+        "command": {
+            "heading": "Command and Control",
+            "overview_text": "The ergonomic BRIDGE CAST panel lets you easily control your mix while staying focused on the game. Everything you need is at your fingers, including grab-and-go level knobs and assignable buttons for muting sounds and accessing various functions. The rock-solid design won’t move around on your desktop, and the discrete rear-panel connections keep clutter in check.",
+            "thumbnail": "https://static.roland.com/products/bridge_cast/images/section-7-hero-mob.jpg"
+        },
+        "app": {
+            "heading": "Customize Your Rig with the BRIDGE CAST App",
+            "overview_text": "The companion BRIDGE CAST app works in tandem with the hardware, giving you full access to an array of in-depth features. Dial in mic and audio parameters, configure Game EQ presets, and more. You can also re-assign hardware controls for your needs and save/recall custom BRIDGE CAST configurations for different games and streaming audiences",
+            "thumbnail": "https://static.roland.com/products/bridge_cast/images/bridge-cast-app.gif"
+        },
+        "curated": {
+            "heading": "Curated Music + Iconic Roland Sounds",
+            "overview_text": "Adding background music and sonic color to streams has never been easier. The BRIDGE CAST app connects directly with Roland Cloud,* putting thousands of royalty-free tracks, sound effects, and musical phrases from Roland instruments at your fingertips. Build custom track playlists to set the mood for different streams and assign sound effects to the four hardware buttons for instant playback.",
+            "thumbnail": "https://static.roland.com/products/bridge_cast/images/section-8-hero.jpg"
+        }
+    },
+    "media": [
+        "https://static.roland.com/assets/images/products/gallery/bridge_cast_01_top_angle_gal.jpg",
+        "https://static.roland.com/assets/images/products/gallery/bridge_cast_02_top_gal.jpg",
+        "https://static.roland.com/assets/images/products/gallery/bridge_cast_03_angle_right_gal.jpg",
+        "https://static.roland.com/assets/images/products/gallery/bridge_cast_03_angle_right_gal.jpg",
+        "https://static.roland.com/assets/images/products/gallery/bridge_cast_05_angle_left_gal.jpg",
+        "https://static.roland.com/assets/images/products/gallery/bridge_cast_06_back_gal.jpg",
+        "https://static.roland.com/assets/images/products/gallery/bridge_cast_07_angle_hand_gal.jpg"
+    ],
+    "specs": {
+        "specifications": [
+            {
+                "label": "Input Channel",
+                "data": "MIC\nAUX\nCHAT (*1)\nGAME (*1)\nMUSIC (*1)\nSYSTEM (*1)\nUSB (*2)\n\n(*1) When the USB port connection setting is \\\"PC\\\"\n(*2) When the USB port connection setting is \\\"CONSOLE/MOBILE\\\""
+            },
+            {
+                "label": "Output Channel",
+                "data": "LINE OUT\nPHONES\nMIC (*3)\nSTREAM (*3)\nPERSONAL (*3)\nUSB(*4)\n\n(*3) When the USB port connection setting is \\\"PC\\\"\n(*4) When the USB port connection setting is \\\"CONSOLE/MOBILE\\\""
+            },
+            {
+                "label": "Connectors",
+                "data": "MIC jack: XLR type (Phantom power DC 48 V, 6 mA Max)\nPHONES/HEADSET jack: Stereo miniature phone type (CTIA, PLUG-IN power)\nAUX jack: Stereo miniature phone type (TRRS)\nLINE OUT jack: Stereo miniature phone type (TRS)\nUSB port: USB Type-C (R)\nUSB DC 5V port: USB Type-C"
+            },
+            {
+                "label": "Audio Mixing Bus",
+                "data": "2 (STREAM MIX, PERSONAL MIX)"
+            },
+            {
+                "label": "Sampling Frequency",
+                "data": "44.1 kHz, 48 kHz, 96 kHz"
+            },
+            {
+                "label": "Signal Processing",
+                "data": "AD/DA: 24 bits\nInternal Processing: 32-bit Floating point"
+            },
+            {
+                "label": "Effects",
+                "data": "MIC: Voice Changer, Noise Suppressor, Compressor, Equalizer, De-esser, Reverb, Low Cut\nCHAT: De-esser, Compressor\nGAME: Equalizer\nSTREAM: Delay"
+            },
+            {
+                "label": "Audio File Player",
+                "data": "Number of tracks: 2\nData Formats: WAV (Linear PCM, 48 kHz, 16 bits, stereo/mono)\nMaximum Time: 5 seconds/track"
+            },
+            {
+                "label": "Input Level",
+                "data": "MIC: -85.5--10.5 dBu (Maximum: +1.5 dBu)\nHEADSET MIC: -58.5--20.5 dBu (Maximum: -8.5 dBu)\nAUX: -10 dBu (Maximum: +2 dBu)"
+            },
+            {
+                "label": "Input Impedance",
+                "data": "MIC: 3.4 k ohms\nHEADSET MIC: 1.3 k ohms\nAUX: 10 k ohms"
+            },
+            {
+                "label": "Output Level",
+                "data": "LINE OUT: -4 dBu (Maximum: +8 dBu)\nPHONES/HEADSET: -1 dBu (Maximum: +11 dBu)\nPHONES/HEADSET: 78 mW + 78 mW (32 ohms)\nPHONES/HEADSET: 35 mW + 35 mW (250 ohms)"
+            },
+            {
+                "label": "Output Impedance",
+                "data": "LINE OUT: 1 k ohm\nPHONES/HEADSET: 10 ohms"
+            },
+            {
+                "label": "Power",
+                "data": "USB bus power\nUSB AC adaptor (commercially available)\n* Use an USB AC adaptor that can supply 5 V, 1.0 A or more."
+            },
+            {
+                "label": "Current Draw",
+                "data": "5 V DC, 900 mA"
+            },
+            {
+                "label": "Operating System",
+                "data": "Microsoft Windows 10, Windows 11\nApple macOS 11 or later\nApple iOS 15 or later\n\n* Although Roland has tested numerous configurations, and has determined that on average, a computer system similar to that described above will permit normal operation of the BRIDGE CAST, Roland cannot guarantee that a given computer can be used satisfactorily with the BRIDGE CAST based solely on the fact that it meets the above requirements. This is because there are too many other variables that may influence the processing environment, including differences in motherboard design and the particular combination of other devices involved."
+            },
+            {
+                "label": "Accessories",
+                "data": "Leaflet \\\"Read Me First\\\"\nUSB 2.0 Type-C to Type-C Cable (2 m, 6.5 feet)\nUSB 2.0 Type-C to Type-A Cable (2 m, 6.5 feet)"
+            }
+        ],
+        "size": [
+            {
+                "label": "Width",
+                "data": "222 mm\n8.7 inches"
+            },
+            {
+                "label": "Depth",
+                "data": "110 mm\n4.3 inches"
+            },
+            {
+                "label": "Height",
+                "data": "70 mm\n2.8 inches"
+            },
+            {
+                "label": "Weight",
+                "data": "450 g\n1 lb"
+            }
+        ]
+    },
+    "size": {},
+    "articles": [
+        {
+            "heading": "FIVE WAYS TO LEVEL UP LIVESTREAMS WITH A GAMING AUDIO MIXER",
+            "overview_text": "For an auditory advantage over the competition, a pro gaming audio mixer is essential. Learn how BRIDGE CAST can improve your livestreams.Read more…",
+            "href": "https://articles.roland.com/five-ways-to-level-up-livestreams-with-a-gaming-audio-mixer/",
+            "thumbnail": "https://static.roland.com/assets/images/articles/thumbnails/avp_five_ways_level_up_livestreams_with_gaming_audio_mixer_tn.jpg",
+            "more_href": "https://articles.roland.com/five-ways-to-level-up-livestreams-with-a-gaming-audio-mixer/"
+        },
+        {
+            "heading": "PERSONALIZE YOUR BRIDGE CAST: A STEP-BY-STEP GUIDE",
+            "overview_text": "Follow these simple steps and transform your BRIDGE CAST into the perfect representation of your gaming brand.Read more…",
+            "href": "https://articles.roland.com/personalize-your-bridge-cast-a-step-by-step-guide/",
+            "thumbnail": "https://static.roland.com/assets/images/articles/thumbnails/avp_personalize_your_bridge_cast_tn.jpg",
+            "more_href": "https://articles.roland.com/personalize-your-bridge-cast-a-step-by-step-guide/"
+        },
+        {
+            "heading": "ROLAND ENGINEERING: DESIGNING BRIDGE CAST",
+            "overview_text": "BRIDGE CAST is a unique product for Roland, and so is its story. Meet the team that created the dedicated audio mixer for gamers.Read more…",
+            "href": "https://articles.roland.com/roland-engineering-designing-bridge-cast/",
+            "thumbnail": "https://static.roland.com/assets/images/articles/thumbnails/avp_roland_engineering_designing_bridge_cast_tn.jpg",
+            "more_href": "https://articles.roland.com/roland-engineering-designing-bridge-cast/"
+        }
+    ],
+    "downloads": [
+        {
+            "heading": "BRIDGE CAST System Program ( Ver.1.04 )",
+            "href": "https://www.roland.com/us/support/by_product/bridge_cast/updates_drivers/ac17c873-7cfe-4328-8ec9-bd96789ebc0c/"
+        },
+        {
+            "heading": "BRIDGE CAST App Ver.1.01 for Windows",
+            "href": "https://www.roland.com/us/support/by_product/bridge_cast/updates_drivers/538aaefc-5539-4fc4-8f9c-5302c2c3f24b/"
+        },
+        {
+            "heading": "BRIDGE CAST App Ver.1.01 for macOS",
+            "href": "https://www.roland.com/us/support/by_product/bridge_cast/updates_drivers/1e380e75-4db0-4dfd-b7bc-663fb7fa2896/"
+        },
+        {
+            "heading": "BRIDGE CAST USB Driver Ver.1.0.0 for Windows 10/11",
+            "href": "https://www.roland.com/us/support/by_product/bridge_cast/updates_drivers/e57674ee-6ea7-47c6-b5d2-3c5bb5b41073/"
+        },
+        {
+            "heading": "BRIDGE CAST Outline Data",
+            "href": "https://www.roland.com/us/support/by_product/bridge_cast/updates_drivers/be5ced40-21b6-483f-b21a-40eca82743e5/"
+        },
+        {
+            "heading": "BRIDGE CAST App Source Code of Open Source Software",
+            "href": "https://www.roland.com/us/support/by_product/bridge_cast/updates_drivers/892d6903-d5a2-49a2-99db-39caa9042b98/"
+        }
+    ],
+    "support": {
+        "intro": "If you have questions about operating your Roland product, please check our Knowledge Base for answers to the most common questions. You can also contact our Product Support through Roland Backstage. In addition, we have a library of Owner's Manuals and Support Documents that you can download and reference.",
+        "arr": [
+            {
+                "heading": "[English] BRIDGE CAST Owners Manual [HTML]",
+                "href": "/us/support/by_product/bridge_cast/owners_manuals/9e0aee16-82ae-4c83-aaff-1e51b0b91eec/"
+            },
+            {
+                "heading": "[English] BRIDGE CAST Owners Manual [PDF]",
+                "href": "/us/support/by_product/bridge_cast/owners_manuals/906f9ae6-4fdd-411e-a0a2-19981985c86b/"
+            },
+            {
+                "heading": "[English] BRIDGE CAST MIDI Implementation Chart [PDF]",
+                "href": "/us/support/by_product/bridge_cast/owners_manuals/2d04aadd-342e-4579-bdd3-d49a0487e702/"
+            }
+        ]
+    }
+}

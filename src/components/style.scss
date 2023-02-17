@@ -1,0 +1,56 @@
+
+// .pulse:hover, 
+// .pulse:focus {
+//   animation: pulse 1s;
+//   box-shadow: 0 0 0 2em transparent;
+// }
+
+.pulse {  
+  background-color: #ff5a00;
+  transition: 0.25s;
+  
+  &:hover,
+  &:focus { 
+    background-color: #e14344;
+    animation: pulse 1s;
+  box-shadow: 0 0 0 1.2em transparent;
+  }
+}
+
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 #ff5a00; }
+}
+
+// $colors: (
+//   pulse: #ff5a00, 
+// );
+
+
+// @each $button, $color in $colors {
+//   .#{$button} {
+//     --color: #{$color};
+//     --hover: #{adjust-hue($color, 45deg)};
+//   }
+// }
+
+
+
+// button {
+//   background: none;
+//   border: 2px solid;
+//   font: inherit;
+//   line-height: 1;
+//   margin: 0.5em;
+//   padding: 1em 2em;
+  
+
+// }
+
+.dots {
+  
+}
+
+.chakra-popover__popper{
+  width: 100% !important;
+}
