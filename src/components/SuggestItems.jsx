@@ -118,23 +118,21 @@ export const ContentItemWrapper = ({ children, style }) => (
 )
 
 export const SectionArticles = ({ heading, thumbnail, text, href }) => (
-    <Flex direction='column' gap={5} px={{ base: 0, md: 28, lg: 40 }}  >
+    <Flex direction={{base: 'column', md: 'row'}} gap={5}   >
         <Link href={href} isExternal>
-            <Box >
+            <Box w={{md: '300px'}}>
                 <Image src={thumbnail} w={'100%'} />
             </Box>
         </Link>
         <ContentItemWrapper style={{ padding: '0' }}>
             <Flex
                 direction='column'
-                gap={4}
+                gap={2}
             >
-                <Heading mb={{ base: 1, md: 3 }} fontWeight={100} size={{ base: 'lg', lg: 'xl' }}>{heading}</Heading>
-                <Text fontSize={{ md: 'xl', lg: '2xl' }}>{text}</Text>
+                <Heading mb={{ base: 1, md: 3 }} fontWeight={100} size={{ base: 'md', lg: 'lg' }}>{heading}</Heading>
+                <Text fontSize={{ md: 'md', lg: 'lg' }}>{text}</Text>
             </Flex>
         </ContentItemWrapper>
-
-
     </Flex>
 )
 
