@@ -16,7 +16,7 @@ const Specs = () => {
 
         <PageContentWrapper>
             <PageContent >
-                {article && article.data[0].attributes && article.data[0].attributes.specParent?.map(item => (
+                {article && article.data[0]?.attributes && article.data[0].attributes.specParent?.map(item => (
                     <>
                         <Heading textTransform={'uppercase'} my={3} px={3} textAlign='left' size={'md'}>{item.heading}</Heading>
                         {item.specChild.map(childItem => (

@@ -16,6 +16,7 @@ const Media = () => {
     const settings = {
         dots: true,
         infinite: true,
+        arrows: true,
         speed: 500,
         slidesToShow: 2,
         slidesToScroll: 1,
@@ -28,7 +29,7 @@ const Media = () => {
             <PageContent style={{display: useBreakpointValue({base: 'none', md: 'block'})}}>
                 <Slider {...settings}>
                     {
-                        article && article.data[0].attributes && article.data[0].attributes.sliders.data?.map((item, index) => (
+                        article && article.data[0]?.attributes && article.data[0].attributes.sliders.data?.map((item, index) => (
                             <>
                                 <Image
                                     src={item.attributes.url}
@@ -41,7 +42,7 @@ const Media = () => {
             </PageContent>
             <PageContent style={{display: useBreakpointValue({base: 'block', md: 'none'})}}>
                 {
-                    article && article.data[0].attributes && article.data[0].attributes.sliders.data?.map((item, index) => (
+                    article && article.data[0]?.attributes && article.data[0].attributes.sliders.data?.map((item, index) => (
                         <Image
                             src={item.attributes.url}
                         />
