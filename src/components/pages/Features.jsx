@@ -52,9 +52,9 @@ const Section = (props) => (
     direction={'column'}
   >
     <Box display={props.item.attributes.imagePosition !== 'top' && 'none'}>
-      <Image src={props.item.attributes.thumbnail.data[0].attributes.url} />
+      <Image src={props.item.attributes.thumbnail.data?.map(i => i.attributes.url)} />
     </Box>
- 
+
     <ContentItemWrapper>
       <Container
         maxW={{ base: 'lg', md: 'container.lg' }}
@@ -73,7 +73,7 @@ const Section = (props) => (
     </ContentItemWrapper>
 
     <Box display={props.item.attributes.imagePosition !== 'bottom' && 'none'}>
-      <Image src={props.item.attributes.thumbnail.data[0]?.attributes.url} />
+      <Image src={props.item.attributes.thumbnail.data?.map(i => i.attributes.url)} />
     </Box>
 
   </Flex >
@@ -98,7 +98,7 @@ const Overview = (props) => (
           <AnimateSection  >
             <Heading mb={{ base: 3, md: 10, lg: 14 }} size={{ base: 'xl', lg: '2xl' }}>{props.item.attributes.heading}</Heading>
           </AnimateSection>
-          <Image src={props.item.attributes.thumbnail} />
+          <Image src={props.item.attributes.thumbnail.data[0]?.attributes.url} />
           <Text fontSize={{ md: 'lg', lg: 'xl' }} lineHeight={7}>{props.item.attributes.overview}</Text>
         </Flex>
       </ContentItemWrapper>
